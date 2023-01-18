@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.search-box{
+  margin: 10px;
+}
+.MuiOutlinedInput-input {
+  padding: 9.5px 14px !important;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
